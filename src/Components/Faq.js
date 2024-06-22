@@ -3,7 +3,7 @@ import React from 'react'
 const Faq = () => {
   return (
     <>
-     <div style={ { marginBottom:"45px" } }></div>
+    <div style={ { marginBottom:"45px" } }></div>
     <section id="faq" class="faq section-bg">
       <div class="container" data-aos="fade-up">
 
